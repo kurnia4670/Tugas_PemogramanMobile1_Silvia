@@ -1,8 +1,9 @@
 # Tugas Pemrograman Mobile 1 - About Me
 
 
+
 ## Deskripsi
-Sebuah tampilam aplikasi sederhana satu halaman yang berisi foto profil, cerita singkat tentang diri saya, hobi, dan kontak. Dibuat untuk memenuhi tugas mata kuliah Pemrograman Mobile 1.
+Sebuah tampilan sederhana Aplikasi satu halaman yang berisi foto profil, cerita singkat tentang diri saya, hobi, dan kontak. Dibuat untuk memenuhi tugas mata kuliah Pemrograman Mobile.
 
 ## Fitur
 - Foto profil dan tagline
@@ -16,7 +17,7 @@ Sebuah tampilam aplikasi sederhana satu halaman yang berisi foto profil, cerita 
 ## Teknologi
 - Flutter
 - Dart
-- Material Design 3
+
 
 ## Cara Menjalankan
 1. Pastikan Flutter sudah terpasang
