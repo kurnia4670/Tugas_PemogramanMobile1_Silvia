@@ -1,17 +1,34 @@
-# about_me
+# Tugas Pemrograman Mobile 1 - About Me
 
-A new Flutter project.
 
-## Getting Started
+## Deskripsi
+Sebuah tampilam aplikasi sederhana satu halaman yang berisi foto profil, cerita singkat tentang diri saya, hobi, dan kontak. Dibuat untuk memenuhi tugas mata kuliah Pemrograman Mobile 1.
 
-This project is a starting point for a Flutter application.
+## Fitur
+- Foto profil dan tagline
+- Cerita singkat tentang saya
+- Daftar hobi dalam bentuk chip
+- Kontak email dan GitHub
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
+![About Me](screenshots/about_me.png)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Teknologi
+- Flutter
+- Dart
+- Material Design 3
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cara Menjalankan
+1. Pastikan Flutter sudah terpasang
+2. Clone repository ini
+3. Jalankan perintah berikut:
+
+```
+flutter pub get
+flutter run -d chrome
+```
+
+## Dibuat oleh
+- Nama: Silvia Kurnia Ahdiansyah
+- NIM: [24552011151]
+- Kelas: [TIF 24 A RM]
